@@ -17,7 +17,7 @@ body {
     color: white;
 }
 
-.section-titale {
+.section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -40,7 +40,7 @@ nav {
     margin: 0 200px;
 }
 
-.nav-tital {
+.nav-title {
     color: #181818;
     font-size: 45px;
     font-weight: 800;
@@ -91,7 +91,7 @@ nav a {
 
 }
 
-.banner-titale {
+.banner-title {
     font-size: 85px;
     font-weight: 700;
     margin-top: 5px;
